@@ -1,126 +1,31 @@
 ﻿{
-    "stickers":  [
-                     {
-                         "name":  "KIKAHCHISA_1_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_1_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_10_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_10_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_11_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_11_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_12_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_12_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_13_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_13_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_14_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_14_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_15_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_15_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_16_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_16_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_17_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_17_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_18_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_18_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_19_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_19_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_2_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_2_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_20_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_20_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_21_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_21_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_22_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_22_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_23_⭐.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_23_⭐.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_24_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_24_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_3_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_3_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_4_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_4_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_5_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_5_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_6_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_6_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_7_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_7_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_8_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_8_🫥.webp.png"
-                     },
-                     {
-                         "name":  "KIKAHCHISA_9_🫥.webp",
-                         "type":  "image/png",
-                         "src":  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/refs/heads/main/KIKAHCHISA/KIKAHCHISA_9_🫥.webp.png"
-                     }
-                 ],
-    "packId":  "KIKAHCHISA",
-    "name":  "KIKAHCHISA"
+    "id":  "KIKAHCHISA",
+    "name":  "KIKAHCHISA",
+    "description":  "Sticker pack hosted on GitHub Raw for Magane.",
+    "files":  [
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_1_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_10_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_11_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_12_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_13_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_14_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_15_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_16_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_17_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_18_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_19_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_2_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_20_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_21_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_22_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_23_⭐.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_24_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_3_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_4_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_5_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_6_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_7_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_8_🫥.webp.png",
+                  "https://raw.githubusercontent.com/SindouYukina/magane-stickers/main/KIKAHCHISA/KIKAHCHISA_9_🫥.webp.png"
+              ]
 }
